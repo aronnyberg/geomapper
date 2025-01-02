@@ -1,0 +1,9 @@
+{"inputs":[
+    {
+    "risk_layer_path":"Areas Benefiting from Flood Defences - spatial data.json",
+    "asset_layer_path":"Listed Buildings - spatial data.json",
+    "command_read_out":"Number of properties protected:",
+    "plot_title":"Properties Protected"
+    }
+]
+}
